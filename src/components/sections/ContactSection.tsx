@@ -103,7 +103,7 @@ const ContactSection = () => {
                     className="rounded-full"
                   >
                     <a
-                      href="www.linkedin.com/in/anhquan2003"
+                      href="https://linkedin.com/in/anhquan2003"
                       target="_blank"
                       rel="noopener noreferrer"
                       aria-label="LinkedIn"
