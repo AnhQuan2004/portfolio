@@ -28,7 +28,7 @@ const Index = () => {
       <div className="min-h-screen flex items-center justify-center bg-background">
         <div className="text-center">
           <div className="text-3xl font-mono font-bold gradient-text mb-4">
-            AI Engineer Portfolio
+            NGUYEN ANH QUAN
           </div>
           <div className="w-16 h-1 bg-primary mx-auto animate-pulse"></div>
         </div>
@@ -58,14 +58,14 @@ const Index = () => {
           <EducationSection />
         </SectionContainer>
 
-                <SectionContainer id="skills">
+        <SectionContainer id="skills">
           <SkillsSection />
         </SectionContainer>
-        
+
         {/* <SectionContainer id="projects">
           <ProjectsSection />
         </SectionContainer> */}
-        
+
         <SectionContainer id="contact">
           <ContactSection />
         </SectionContainer>
